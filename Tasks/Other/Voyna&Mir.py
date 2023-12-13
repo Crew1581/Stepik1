@@ -1,5 +1,6 @@
 str = input().lower().split()
 d={}
+print(str)
 for i in range(len(str)):
     if str[i] in d:
         d[str[i]] += 1

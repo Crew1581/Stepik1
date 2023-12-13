@@ -1,1 +1,11 @@
-YYDDDDDDDDDDDDDDDDDEEEEEEEEEEEEEEEEEEErrrrrrrrrrrrrrrrrFFFFFFFFFFFFFFYYYYYyyyyyyyyyyyyyyyyyyyykkkkkkknnKKKKKKKKKKKKKKKKKKKttttttttttttttttttfffffffffffMMMMMMMMMMMMiiiiiiiiKKKKwwwwwwwwccccccccccccccccccccPPPPPPPPPPPPPPPPPlllllllllllllllllllNNnnnnnnnnnnnnrrrrrrrrrrrrrrrrrrPPPPPPPLLLLLLLLLLLLLLmmmmmmmmmmmmmmmmmmlFFFFFFFjjjjjjjjjjjjjjjjjjjjoooooooooooooo
+1 127.5 
+2 127.66666666666667 
+3 135.0 
+4 140.0 
+5 143.83333333333334 
+6 154.16666666666666 
+7 158.5 
+8 166.66666666666666 
+9 170.66666666666666 
+10 167.6 
+11 173.71428571428572 
